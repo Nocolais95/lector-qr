@@ -1,5 +1,6 @@
 # qr_reader
 
+App para leer codigos QR, redirige a una pagina web o a una ubicacion en el mapa
 A new Flutter project.
 
 ## Getting Started
